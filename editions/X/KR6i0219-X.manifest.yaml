@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0219_000-X.yaml, hash: 'sha256:a7425297e2aa668e5b2dc6caae7ba2e8d5b251a425904ca6357457cbbb3556e0'}
+  - {seq: 0, filename: KR6i0219_000-X.yaml, hash: 'sha256:67cb06a006c4eb49658d7d46aac26e805054f3f6acea0d3ce81a82e29dfe4998'}
   - {seq: 1, filename: KR6i0219_001-X.yaml, hash: 'sha256:980f157f55192b612134e844e1d287a16f66c15c5fe632c635a628b09a8d4f9c'}
   - {seq: 2, filename: KR6i0219_002-X.yaml, hash: 'sha256:392bc01fed5549f39e1ad7c54373e1c5bec7c388071c39d9ea5465bc8fa122cf'}
   - {seq: 3, filename: KR6i0219_003-X.yaml, hash: 'sha256:28235d9462dd3a331b1a17a0219ff6df87e3f1dda6247bc0c02edd16eb11b494'}
   - {seq: 4, filename: KR6i0219_004-X.yaml, hash: 'sha256:ab9a6ca37dc7ec499d13fcb0b8a055fdb06b5c0d343abd245be06336f95f0591'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0219_000-X.markers.yaml, hash: 'sha256:e3e30cb75c22cc87187dfd649d5e37f032ccaf658440b6b61700a52566a3d2b4'}
+  - {seq: 0, role: markers, filename: assets/KR6i0219_000-X.markers.yaml, hash: 'sha256:2ba45fc3ce1f76ec6479cdae0134efdfec7b4b98cc9f6dd96d27048d51621bd5'}
   - {seq: 1, role: markers, filename: assets/KR6i0219_001-X.markers.yaml, hash: 'sha256:5fc90c1adc32331361b0f48939ad5e6010219094cc5610e8bdde73008a81c77b'}
   - {seq: 2, role: markers, filename: assets/KR6i0219_002-X.markers.yaml, hash: 'sha256:5b0bc301957c072f281a27cf463f89043a19abc45cae9a752c41602378ff2132'}
   - {seq: 3, role: markers, filename: assets/KR6i0219_003-X.markers.yaml, hash: 'sha256:3c0e4d0a5bbdc53596db09203ae4b93c68f3f83b65285a116dc2b66c0f461e98'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0219_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 364-A 思益梵天所問經簡註序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0219_X_000-mulu-2
     span:
-    - front
+    - body
     - 571
     - 571
   label: 思益梵天所問經簡註目次
@@ -341,4 +341,4 @@ table_of_contents:
   label: 囑累品第二十四
   type: mulu
   level: 1
-hash: sha256:8fe15b63bd0f20b8317e2b1a8ad6e5c76498c2cfc5d18188610df6c48af1b791
+hash: sha256:cf9217c108d6f302c967885f9c13d940b044a8244fc40c8ae5574b25fa986166
